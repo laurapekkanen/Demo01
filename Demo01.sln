@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht07", "Teht07\Teht07.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht08", "Teht08\Teht08.csproj", "{F86557ED-9C16-4AB5-8DEC-C9EC3F725F64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht09", "Teht09\Teht09.csproj", "{A86E5C90-C289-4655-8392-FBD74B20371A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht10", "Teht10\Teht10.csproj", "{E8AF3A25-3DF0-42AF-9B77-DBA963614778}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{F86557ED-9C16-4AB5-8DEC-C9EC3F725F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F86557ED-9C16-4AB5-8DEC-C9EC3F725F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F86557ED-9C16-4AB5-8DEC-C9EC3F725F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86E5C90-C289-4655-8392-FBD74B20371A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86E5C90-C289-4655-8392-FBD74B20371A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86E5C90-C289-4655-8392-FBD74B20371A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86E5C90-C289-4655-8392-FBD74B20371A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8AF3A25-3DF0-42AF-9B77-DBA963614778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AF3A25-3DF0-42AF-9B77-DBA963614778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AF3A25-3DF0-42AF-9B77-DBA963614778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AF3A25-3DF0-42AF-9B77-DBA963614778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
